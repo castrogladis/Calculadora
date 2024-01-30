@@ -11,6 +11,7 @@
   color: aliceblue;
   border: 2px solid whitesmoke;
   cursor: pointer;
+  user-select: none;
 }
 
 .boton-clear:hover {
